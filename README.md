@@ -1,1 +1,4 @@
-# Ardino_projects
+# Ardino_projects 
+Ardino based temperature sensor project.
+
+ 
